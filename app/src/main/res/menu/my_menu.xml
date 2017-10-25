@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_change"
+        android:title="进制转换"
+        />
+    <item
+        android:id="@+id/item_about"
+        android:title="说明"
+        />
+
+</menu>
